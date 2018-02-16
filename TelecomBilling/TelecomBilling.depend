@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1484075582 source:c:\users\hp\downloads\telecombilling (1)\telecombilling\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+
